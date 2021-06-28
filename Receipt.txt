@@ -1,0 +1,2 @@
+Thank you for playing Hangman, Skhdg
+You got 1 correct guesses, and 0 inccorect guesses.

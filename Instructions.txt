@@ -1,0 +1,7 @@
+Instructions:
+Choose a category and a word wil randomly be choosen.
+Once a word is choosen, guess a letter contained inside the word or guess the word itself.
+If your guess is not a letter, and isn't the same length as the amount of dashes, it will count as a wrong guess and you will be penalized.
+If you guess the word correctly, you win the game.
+If you get 6 incorrect guesses, you lose the game.
+Good luck!
